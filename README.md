@@ -8,8 +8,9 @@
 
 ## 🌐 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/paul-piwowarski)
-[Portfolio](https://github.com/paulpiwow)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paul%20Piwowarski-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/paul-piwowarski/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-paulpiwow-black?style=for-the-badge&logo=github)](https://github.com/paulpiwow)
 
 ---
 
